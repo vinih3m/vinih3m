@@ -1,4 +1,4 @@
-# 💫 olá! Me chamo Vinícius Aragão
+# 💫 olá! Sou Vinícius Aragão
 Sou um jovem analista de sistemas<br>Estou a procura da minha primeira experiência na área! E aqui coloco meus projetos. <br>
 
 
