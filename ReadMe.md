@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um jovem estudante de Analise e Desenvolvimento de sistemas<br>Estou a procura de Estagio e experiência na área <br>
+Sou um jovem analista de sistemas<br>Estou a procura da minha primeira experiência na área! <br>
 
 
 ## 🌐 Socials:
