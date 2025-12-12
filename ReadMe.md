@@ -1,5 +1,5 @@
 # 💫 olá! Vinícius Aragão Aqui.
-Sou desenvolvedor Full Stack<br>E aqui e onde tem meus projetos profissionais e testes.<br>
+Sou desenvolvedor Full Stack<br>E aqui e onde mantenho neus projetos profissionais e testes.<br>
 
 
 ## 🌐 Socials:
